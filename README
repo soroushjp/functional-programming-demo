@@ -1,0 +1,1 @@
+Small demonstration comparing functional (Haskell) and imperative (Go) approaches to recursive fibonacci with arbitrary sized shifter function.
